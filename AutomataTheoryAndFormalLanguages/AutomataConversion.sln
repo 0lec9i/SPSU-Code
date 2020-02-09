@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomataConversion", "AutomataConversion\AutomataConversion.csproj", "{997B551E-DCB3-4418-B193-BDC57F425590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrammarGeneration", "GrammarGeneration\GrammarGeneration.csproj", "{3148D18B-C7E5-426B-B881-87B8E59BCE40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrammarExecution", "GrammarExecution\GrammarExecution.csproj", "{733EE5D6-0A7B-487B-8F4A-6F330EAF5BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{997B551E-DCB3-4418-B193-BDC57F425590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997B551E-DCB3-4418-B193-BDC57F425590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997B551E-DCB3-4418-B193-BDC57F425590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997B551E-DCB3-4418-B193-BDC57F425590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3148D18B-C7E5-426B-B881-87B8E59BCE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3148D18B-C7E5-426B-B881-87B8E59BCE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3148D18B-C7E5-426B-B881-87B8E59BCE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3148D18B-C7E5-426B-B881-87B8E59BCE40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{733EE5D6-0A7B-487B-8F4A-6F330EAF5BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733EE5D6-0A7B-487B-8F4A-6F330EAF5BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733EE5D6-0A7B-487B-8F4A-6F330EAF5BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733EE5D6-0A7B-487B-8F4A-6F330EAF5BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
